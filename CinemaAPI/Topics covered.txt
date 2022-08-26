@@ -1,0 +1,16 @@
+Web API
+Rest API with SQL server via Entity Framework
+Returning Resource(Source Code, Content Negotiation)
+
+Migration
+Upload Files
+Model Validation
+Routing and Vustom Methods
+
+Adding Entitites and Relation
+Securing Web API with JWT
+Role Based Authentication
+Complete Real World Cinema API
+Sorting, Paging & Searching
+API Documentation
+API Deployment
